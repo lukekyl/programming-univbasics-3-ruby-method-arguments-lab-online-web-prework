@@ -11,4 +11,5 @@ def introduction_with_language_optional(name, language)
     puts "Hi, my name is #{name}"
   else
     puts "Hi, my name is #{name}, and I am learning #{language}."
+  end
 end
